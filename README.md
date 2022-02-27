@@ -3,7 +3,7 @@
 - [Technology Stack](#technology-stack)
 - [Project Setup and Running](#project-setup-and-running)
 - [Testing](#testing)
-- [Important Notes](#important-notes)
+- [Important Notes](REQUIREMENTS.md/#important-notes)
 - [Anatomy of storefront endpoints](REQUIREMENTS.md/#anatomy-of-storefront-endpoints)
     - [Products](REQUIREMENTS.md/#products)
     - [Users](REQUIREMENTS.md/#users)
@@ -32,7 +32,7 @@ This API built with
 - `NPM`:        As a package manager.
 - `PostgreSQL`: As a Database.
 - `db-migrate`: For migrations.
-- `jsonwebtoken(JWT)`: For users authorization  
+- `jsonwebtoken(JWT)`: For users authorization. 
 - `Jasmine`:    For Unit testing.
 - `ESLint`:     JS linting tool.
 - `prettier`:   Code formatting tool.
