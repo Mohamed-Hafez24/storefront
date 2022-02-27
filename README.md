@@ -1,3 +1,4 @@
+# Storefront Backend Project
 #### Table of Contents
 - [Introduction](#introduction)
 - [Technology Stack](#technology-stack)
@@ -95,7 +96,8 @@ Use this command to run the app in watch mode.
 ```
 npm run watch
 ```
-- The app will run on port 3000 | `localhost:3000`
+- The app will run on port `3000` | `localhost:3000`
+- The database will run on port `5432`
 ________________________________________________________________________________________________________________________________
 ### Testing
 Use this command to run the unit tests with jasmin.
